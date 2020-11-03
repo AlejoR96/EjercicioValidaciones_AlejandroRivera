@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicio_Validacion\Ejercicio_Validacion\bin\Debug\Ejercicio_Validacion.exe.config
+C:\Users\Usuario\source\repos\Ejercicio_Validacion\Ejercicio_Validacion\bin\Debug\Ejercicio_Validacion.exe
+C:\Users\Usuario\source\repos\Ejercicio_Validacion\Ejercicio_Validacion\bin\Debug\Ejercicio_Validacion.pdb
+C:\Users\Usuario\source\repos\Ejercicio_Validacion\Ejercicio_Validacion\obj\Debug\Ejercicio_Validacion.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio_Validacion\Ejercicio_Validacion\obj\Debug\Ejercicio_Validacion.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Ejercicio_Validacion\Ejercicio_Validacion\obj\Debug\Ejercicio_Validacion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Ejercicio_Validacion\Ejercicio_Validacion\obj\Debug\Ejercicio_Validacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio_Validacion\Ejercicio_Validacion\obj\Debug\Ejercicio_Validacion.exe
+C:\Users\Usuario\source\repos\Ejercicio_Validacion\Ejercicio_Validacion\obj\Debug\Ejercicio_Validacion.pdb
+C:\Users\Usuario\source\repos\Ejercicio_Validacion\Ejercicio_Validacion\obj\Debug\Ejercicio_Validacion.Frmvalidaciones.resources
